@@ -41,6 +41,83 @@ const questions = [{
       d: 'Eight times'
     },
     correct: 'b'
+  },
+  {
+    id: 4,
+    question: 'In which country were the first Olympic Games held?',
+    answers: {
+      a: 'France',
+      b: 'Greece',
+      c: 'United Kingdom',
+      d: 'United States'
+    },
+    correct: 'b'
+  },
+  {
+    id: 5,
+    question: 'How many minutes is a rugby match?',
+    answers: {
+      a: '60 Minutes',
+      b: '90 Minutes',
+      c: '70 Minutes',
+      d: '80 Minutes'
+    },
+    correct: 'd'
+  },
+  {
+    id: 6,
+    question: 'Who was the champion of the Tour de France from 1999 to 2005?',
+    answers: {
+      a: 'Lance Armstrong',
+      b: 'Marco Pantani',
+      c: 'Óscar Pereiro',
+      d: 'Floyd Landis'
+    },
+    correct: 'a'
+  },
+  {
+    id: 7,
+    question: 'What was the Olympic city of 1992?',
+    answers: {
+      a: 'Atlanta',
+      b: 'Barcelona',
+      c: 'Calgary',
+      d: 'Seoul'
+    },
+    correct: 'b'
+  },
+  {
+    id: 8,
+    question: 'In which sport can you win the Davis Cup?',
+    answers: {
+      a: 'Basketball',
+      b: 'Baseball',
+      c: 'Rugby',
+      d: 'Tennis'
+    },
+    correct: 'd'
+  },
+  {
+    id: 9,
+    question: 'How many players has a hockey team got on the ice?',
+    answers: {
+      a: 'Six players',
+      b: 'Seven players',
+      c: 'Five players',
+      d: 'Four players'
+    },
+    correct: 'a'
+  },
+  {
+    id: 10,
+    question: 'What is the national sport in Japan?',
+    answers: {
+      a: 'Ping Pong',
+      b: 'Billiards',
+      c: 'Sumo Wrestling',
+      d: 'Association football'
+    },
+    correct: 'c'
   }
 ];
 
